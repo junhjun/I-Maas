@@ -1,22 +1,24 @@
-# 주행 기록계 데이터 분석을 통한 주행 습관 분석 #
-<br>
+# 주행 기록계 데이터 분석을 통한 주행 습관 분석
 
+
+##  📝 프로젝트 요약
 주행 습관 분석은 운전자 및 차량 안전 향상을 위해 필수적인 요소임
 
 본 연구에서는 주행 기록계 데이터를 바탕으로 운전자의 주행 습관을 분석 및 평가하고자 함
+
+<br>
 
 이를 수행하기 위해 다음과 같은 문제점을 해결해야 함
 - 방대한 주행 기록계 데이터에서 중요 요인(급감속, 급회전 등) 파악하는 것
 - 데이터를 분석 및 점수화에 용이한 형태로 변환하는 것
 - 변환된 데이터를 분석하여 주행 습관 분류하는 것
 
-본 연구는 'A frame work for evaluating aggresive driving behaviors based on in-vehicle driving records. Jooyoung Lee, Kitae Jang, 2017' 기반으로 실험을 진행함
 <br>
-<br>
+'A frame work for evaluating aggresive driving behaviors based on in-vehicle driving records. Jooyoung Lee, Kitae Jang, 2017' 기반으로 실험을 진행함
 
 ---
-<br>
 
+##  🔍 분석 내용
 <h2> 1. 데이터 분석 및 전처리 </h2>
 경기 71바 1001 차량을 비롯한 15대 차량의 210701 일시 DTG(Digital Tacho Graph) 데이터 활용
 <br>
